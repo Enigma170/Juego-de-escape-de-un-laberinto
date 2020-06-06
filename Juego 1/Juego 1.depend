@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1571752561 source:c:\users\gateway\documents\héctor gustavo\escuela\uaslp\3º semestre\lenguajes de programacion\programas\projecto\juego 1\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdio.h>
+
+1575499203 source:c:\users\gateway\documents\héctor gustavo\héctor gustavo hernández reyes\escuela\uaslp\3º semestre\lenguajes de programacion\programas\projecto\juego 1\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<winbgim.h>
+
+1586304388 source:c:\users\gateway\onedrive - universidad autonoma de san luis potosi - uaslp\escuela\uaslp\3º semestre\lenguajes de programacion\programas\projecto\juego 1\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<winbgim.h>
+
